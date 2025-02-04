@@ -1,3 +1,2 @@
-# BCA-5TH-SEM lab report
-This is lab report of 5th sem
-In this lab report there is DBMS and computer networking lab report
+#BCA 5th Semester Lab Report
+This lab report for the 5th semester covers practical work from Database Management Systems (DBMS) and Computer Networking. It includes detailed experiments, implementations, and analyses conducted during the semester.
